@@ -1,4 +1,4 @@
-## Task description
+## Transfers
 You are given a list of N transfers (numbered from 0 to N-1) between two banks: bank A and bank B. The K-th transfer is described by
 two values:
 
